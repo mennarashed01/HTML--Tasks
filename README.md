@@ -41,4 +41,22 @@ Week-1
     id: global
     type: not global
     -->
-
+------------------------------------------------------------------------------------------------
+Week 2: 
+  L 19 to 32: task1
+    header
+    nav
+    main
+    aside
+    picture
+    figure
+    footer
+    figcaption
+    section
+    command x
+    ruby
+    data
+    article
+    install x
+    text  x
+-----------------------------------------------------------------------------------------------
