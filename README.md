@@ -62,3 +62,13 @@ Week 2:
     install x
     text  x
 -----------------------------------------------------------------------------------------------
+week3: 
+  L 35 to L37:
+    1- button type="submit" or input type="submit"
+    2- h1
+    3- h2
+    4- p
+    5- <html lang="" >
+    6- 10 to 20
+    7- use attribute: tabindex="0"
+    8- Accessible Rich Internet Applications
